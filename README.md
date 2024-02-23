@@ -1,19 +1,19 @@
 
-# Muster
+# Armory
 
 **Brought to you by the CTNG Software Factory** - a dynamic collective of developers, Soldiers, and technology enthusiasts dedicated to merging military expertise with the forefront of software development. Inspired by the Army Software Factory initiative, our mission is to equip Soldiers with the necessary tools and knowledge for success in technological careers.
 
-**Muster** is your all-encompassing National Guard management tool, designed to enhance the efficiency of Soldier data management and communication. It simplifies the tracking of administrative requirements automated notifications, ensuring adherence to crucial deadlines.
+**Armory** is your all-encompassing National Guard management tool, designed to enhance the efficiency of Soldier data management and communication. It simplifies the tracking of administrative requirements automated notifications, ensuring adherence to crucial deadlines.
 
-Beyond mere compliance, **Muster** facilitates robust lines of communication and scheduling, providing Soldiers with seamless access to essential resources. Our platform is designed to support the modern Soldier at every step, from daily duties to long-term career development.
+Beyond mere compliance, **Armory** facilitates robust lines of communication and scheduling, providing Soldiers with seamless access to essential resources. Our platform is designed to support the modern Soldier at every step, from daily duties to long-term career development.
 
 ## Join our Discord for More Information
-Connect with us on [Discord](https://discord.gg/CutXG4DY) to learn more about **Muster**, engage with our community, and stay updated on the latest developments.
+Connect with us on [Discord](https://discord.gg/CutXG4DY) to learn more about **Armory**, engage with our community, and stay updated on the latest developments.
 
 ## Future Plans
-Dive into our User Stories to discover our vision for expanding **Muster**'s functionality. Our roadmap is built on feedback from our community, aiming to address the evolving needs of today's military personnel.
+Dive into our User Stories to discover our vision for expanding **Armory**'s functionality. Our roadmap is built on feedback from our community, aiming to address the evolving needs of today's military personnel.
 
-Stay tuned as we continue to innovate and enhance **Muster**, ensuring it remains an indispensable resource for Soldiers navigating the complexities of military life and career advancement.
+Stay tuned as we continue to innovate and enhance **Armory**, ensuring it remains an indispensable resource for Soldiers navigating the complexities of military life and career advancement.
 
 
 
@@ -105,4 +105,4 @@ Explanation of the Individual Ready Reserve status, obligations, potential activ
 
 # Sending Feedback
 
-We are always open to your [your feedback](https://github.com/Christian-m-mason/muster/issues).
+We are always open to your [your feedback](https://github.com/Christian-m-mason/Armory/issues).
