@@ -7,7 +7,7 @@ The app seamlessly integrates with DTMS, providing real-time updates. Additional
 
 # Table of Contents
 
- 1. [User Stories] (## 1. User Stories  )
+ 1. [User Stories] (##-1.-User-Stories)
 
 
 ## 1. User Stories  
