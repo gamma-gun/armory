@@ -44,33 +44,64 @@ Stay tuned as we continue to innovate and enhance **Muster**, ensuring it remain
 ### Applicant
 Information and resources for individuals interested in joining the Guard, detailing the initial application steps and expectations.
 
+- **Information Portal:** Insights into the National Guard and benefits of service.
+- **Step-by-Step Guide:** Checklist for the application process.
+
 ### Enlistment
 The enlistment process, including required documents, oath of enlistment, and the commitment being made.
+
+- **Document Checklist:** List of required documents for enlistment.
+- **Oath of Enlistment Overview:** Explanation of the oath's significance.
 
 ### Recruit Sustainment Program
 An overview of the Recruit Sustainment Program, its purpose in acclimating new enlistees to military life, and what new recruits can expect.
 
+- **Orientation Module:** Introduction to military life and IADT preparation.
+- **Calendar Integration:** Schedule of meetings and drills.
+
 ### Initial Active Duty Training (IADT)
 Details on the Initial Active Duty Training phase, encompassing Basic Combat Training and Advanced Individual Training, with preparatory resources.
+
+- **Training Overview:** Syllabus of Basic and Advanced Individual Training.
+- **Preparation Checklist:** List of gear and documents for IADT.
 
 ### Battle Hand Off
 Describes the transition from IADT to the first unit assignment, emphasizing the integration process and initial responsibilities.
 
+- **Integration Guide:** Transitioning to unit assignment.
+- **Initial Duties Overview:** Introduction to first responsibilities.
+
 ### Unit Sponsorship
 Information on the Unit Sponsorship program, aimed at facilitating new members' adjustment to their unit through guidance and support.
+
+- **Sponsor Assignment:** Information on the assigned sponsor.
+- **New Member Resources:** Adjusting to the new unit.
 
 ### Unit Membership
 Ongoing duties and opportunities for Guard members within their unit, including:
 
+- **Compliance Tracker:** Log for Soldier individual Readiness tasks. 
+- **Opportunity Finder:** Tool for additional duties and advancement.
+
 - **Garrison Operations:** Specifics on peacetime duties, training, and activities for Guard members stationed at a home base.
+    - **Operations Calendar:** Schedule of duties and events.
+    - **Duty Descriptions:** Roles during peacetime operations.
 
 - **Deployment:** Details the deployment process and support resources for members and their families during deployment periods.
+    - **Deployment Checklist:** Preparation for members and families.
+    - **Family Support Module:** Resources for families of deployed members.
 
 ### Expiration of Term of Service (ETS)
 Guidance for members approaching or considering the end of their service term, including transition support and re-enlistment information.
 
+- **Transition Guide:** Steps for transitioning out of service.
+
+
 ### Individual Ready Reserve
 Explanation of the Individual Ready Reserve status, obligations, potential activations, and distinctions from active duty or Guard service.
+- **IRR Obligations:** Requirements and potential call-ups.
+- **Status Management:** Updating personal information and availability.
+- **Re-enlistment Options:** Information on re-entering service.
 
 # Sending Feedback
 
