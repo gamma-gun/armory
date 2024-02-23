@@ -62,11 +62,9 @@ Information on the Unit Sponsorship program, aimed at facilitating new members' 
 ### Unit Membership
 Ongoing duties and opportunities for Guard members within their unit, including:
 
-#### Garrison Operations
-Specifics on peacetime duties, training, and activities for Guard members stationed at a home base.
+- **Garrison Operations:** Specifics on peacetime duties, training, and activities for Guard members stationed at a home base.
 
-#### Deployment
-Details the deployment process and support resources for members and their families during deployment periods.
+- **Deployment:** Details the deployment process and support resources for members and their families during deployment periods.
 
 ### Expiration of Term of Service (ETS)
 Guidance for members approaching or considering the end of their service term, including transition support and re-enlistment information.
